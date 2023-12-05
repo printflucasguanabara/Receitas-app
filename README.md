@@ -4,7 +4,7 @@
 
 ## Sobre
 
-Um aplicativo web desenvolvido com HTML, CSS e JavaScript, focado em proporcionar uma plataforma intuitiva e eficiente para entusiastas culinários de todos os níveis de habilidade. Seja você um cozinheiro iniciante ou um chef experiente, o CookMaster está aqui para simplificar a sua jornada na cozinha.
+Um aplicativo web desenvolvido com HTML, CSS e JavaScript, focado em proporcionar uma plataforma intuitiva e eficiente para entusiastas culinários de todos os níveis de habilidade. Seja você um cozinheiro iniciante ou um chef experiente, este aplicativo está aqui para simplificar a sua jornada na cozinha.
 
 ## Principais Recursos
 
