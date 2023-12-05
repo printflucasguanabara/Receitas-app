@@ -4,7 +4,14 @@
 
 ## Sobre
 
-Um aplicativo web desenvolvido com HTML, CSS e JavaScript, focado em proporcionar uma plataforma intuitiva e eficiente para entusiastas culinários de todos os níveis de habilidade. Seja você um cozinheiro iniciante ou um chef experiente, este aplicativo está aqui para simplificar a sua jornada na cozinha.
+Um aplicativo web focado em proporcionar uma plataforma intuitiva e eficiente para entusiastas culinários de todos os níveis de habilidade. Seja você um cozinheiro iniciante ou um chef experiente, este aplicativo está aqui para simplificar a sua jornada na cozinha.
+
+## Desenvolvido com: <br>
+ <div>
+     <img align='center' height='40' width='60' title='HTML5' alt='html5' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' />
+     <img align='center' height='40' width='60' title='CSS3' alt='css3' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' />
+     <img align='center' height='40' width='60' title='CSS3' alt='css3' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' />
+</div>
 
 ## Principais Recursos
 
