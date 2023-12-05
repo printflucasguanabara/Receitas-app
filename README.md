@@ -1,6 +1,6 @@
-# CookMaster - Simplificando a Sua Jornada Culinária
+# Simplificando a Sua Jornada Culinária
 
-Bem-vindo ao CookMaster, o aplicativo web dedicado a tornar a busca por receitas uma experiência simples e deliciosa!
+ aplicativo web dedicado a tornar a busca por receitas uma experiência simples e deliciosa!
 
 ## Sobre
 
